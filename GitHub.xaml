@@ -58,13 +58,12 @@
       <AssemblyReference>System.ServiceModel</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="GitHub" sap:VirtualizedContainerService.HintSize="375.555555555556,251.555555555556" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="GitHub" sap:VirtualizedContainerService.HintSize="375.555555555556,152" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="333.777777777778,59.5555555555556" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello&quot;]" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="333.777777777778,59.5555555555556" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;this is another message box&quot;]" />
   </Sequence>
 </Activity>
